@@ -10,7 +10,7 @@ Software Engineer passionate about building intuitive applications and solving r
 
 ## 🚀 About Me
 
-- 📱 Former iOS Engineering Intern @ Hatch
+- 📱 Previous iOS Engineering Intern @ Hatch
 - 💻 Previous Software Engineering Intern @ Superstars
 - 🤖 Interested in Mobile Development, AI, and Full Stack Engineering
 - 🌱 Currently building personal projects and expanding my technical skills
@@ -44,15 +44,6 @@ Software Engineer passionate about building intuitive applications and solving r
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JasonZhong3&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonZhong3&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
